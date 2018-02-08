@@ -18,7 +18,7 @@ public class Main {
            answer = add(a, b);
            System.out.println("Answer is: " + answer);
        } else {
-           System.out.println("Unsupported operation");
+           System.out.println("Unsupported operation"+operation);
        }
    }
 
